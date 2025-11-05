@@ -1,0 +1,6 @@
+[2025-11-05 22:30:16.707351] Crawled: https://example.com | Links found: 1
+[2025-11-05 22:31:53.229483] Crawled: https://example.com | Links found: 1
+[2025-11-05 22:32:06.358154] Crawled: https://example.com | Links found: 1
+[2025-11-05 22:32:18.645029] Crawled: https://example.com | Links found: 1
+[2025-11-05 22:33:03.702796] Crawled: https://example.com | Links found: 1
+[2025-11-05 22:43:18.182934] Crawled: http://facebook.com | Links found: 43
